@@ -153,7 +153,8 @@ Savings Rate = 19.64%
 \- Dashboard visualizations provide an easy-to-understand overview of financial behaviour.
 
 
-
+**Dashbord Preview**
+![Dashboard] (dashboard.png)
 
 
 **Skills Demonstrated**
