@@ -154,7 +154,8 @@ Savings Rate = 19.64%
 
 
 **Dashbord Preview**
-![Dashboard] (dashboard.png)
+
+![Dashboard](dashboard.png)
 
 
 **Skills Demonstrated**
